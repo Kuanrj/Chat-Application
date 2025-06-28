@@ -1,7 +1,7 @@
-package com.learning.linkup.handler;
+package com.learning.ChatApp.handler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.learning.linkup.model.ChatMessage;
+import com.learning.ChatApp.model.ChatMessage;
 import org.springframework.web.socket.CloseStatus;
 import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;

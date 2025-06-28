@@ -1,6 +1,6 @@
-package com.learning.linkup.config;
+package com.learning.ChatApp.config;
 
-import com.learning.linkup.handler.ChatWebSocketHandler;
+import com.learning.ChatApp.handler.ChatWebSocketHandler;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
 import org.springframework.web.socket.config.annotation.WebSocketConfigurer;

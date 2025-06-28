@@ -1,4 +1,4 @@
-package com.learning.linkup.model;
+package com.learning.ChatApp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
