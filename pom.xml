@@ -12,7 +12,7 @@
 	<artifactId>linkup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>linkUp</name>
-	<description>LinkUp: Your World, Connected. LinkUp is the ultimate communication app designed to keep you seamlessly connected to everything that matters. Whether you&apos;re sharing laughs with friends, collaborating on projects, or building vibrant communities, LinkUp brings all your conversations into one intuitive and reliable platform.  Experience crystal-clear messaging, lightning-fast delivery, and effortless group chats. Share files, plan events, and engage with a clean, responsive interface that makes every interaction a breeze. LinkUp is more than just a chat app; it&apos;s your central hub for meaningful conversations and stronger connections. Get started today and see how easy it is to link up with your world.</description>
+	<description> communication web-app without any user authentication</description>
 	<url/>
 	<licenses>
 		<license/>
